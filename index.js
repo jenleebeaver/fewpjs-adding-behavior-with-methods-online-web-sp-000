@@ -6,7 +6,7 @@ class Cat {
   }
 
   speak(){
-    console.log
+    console.log(`${name} says meow!`)
   }
 },
 
