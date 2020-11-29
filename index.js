@@ -28,6 +28,8 @@ class Bird {
   }
 
   if bird.sex === male {
+    console.log(`It's me! ${name}, the parrot!`)
+  } else {
     
   }
 }
