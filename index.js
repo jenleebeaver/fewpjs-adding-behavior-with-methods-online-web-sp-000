@@ -8,7 +8,7 @@ class Cat {
   speak(){
     console.log(`${name} says meow!`)
   }
-},
+}
 
 class Dog {
   constructor(name, sex){
@@ -19,7 +19,7 @@ class Dog {
   speak(){
     console.log(`${name} says woof!`)
   }
-},
+}
 
 class Bird {
   constructor(name, sex){
