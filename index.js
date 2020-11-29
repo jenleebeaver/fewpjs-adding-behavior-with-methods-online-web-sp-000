@@ -1,5 +1,5 @@
 // Your code here
-class Cat {
+class Cat(name, sex) {
   constructor(name, sex){
     this.name = name;
     this.sex = sex
