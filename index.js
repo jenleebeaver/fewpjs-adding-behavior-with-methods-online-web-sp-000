@@ -4,6 +4,8 @@ class Cat {
     this.name = name;
     this.sex = sex
   }
+
+  speak
 },
 
 class Dog {
